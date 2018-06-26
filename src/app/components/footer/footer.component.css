@@ -1,0 +1,25 @@
+#foot{
+  margin-bottom: 0px;
+  background: rgba(0, 0, 0, 0.7);
+  border: none;
+  padding-top: 3%;
+}
+#foo{
+  background: rgba(0, 0, 0, 0.9);
+  height: 110px;
+  border: none;
+}
+div footer{
+  margin-top: 25px;
+}
+
+div footer p{
+  font-size: 18px;
+  color: white;
+  border: none;
+}
+
+div footer i{
+  font-size: 35px;
+  margin-right: 20px;
+}

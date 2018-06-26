@@ -1,0 +1,35 @@
+#imgcarousel{
+  max-width: 105px;
+  min-width: 30px;
+  max-height: 66px;
+  min-height: 30px;
+  border-bottom: 3px solid lightgray;
+}
+
+#img-ind{
+  width: 10%;
+  height: 10%;
+}
+
+#carousell{
+  height: 500px;
+  outline: 3px solid red;
+}
+
+#imgcaro{
+  max-height: 670px;
+  min-height: 350px;
+}
+
+#indica{
+  padding-top: 30px;
+}
+
+#indicador{
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+#img-indi{
+
+}

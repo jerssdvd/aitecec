@@ -1,0 +1,56 @@
+app-navbar{
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+app-carousel{
+  z-index: 0;
+  width: 100%;
+}
+div{
+  background: white;
+}
+
+#foo{
+  background: rgba(0, 0, 0, 0.8);
+}
+
+footer{
+  height: 100px;
+  background: black;
+}
+
+footer div{
+  background: black;
+  height: 50px;
+  padding-top: 10px;
+}
+
+footer p{
+  color: white;
+}
+footer i{
+  font-size: 45px;
+  margin-left: 3px;
+}
+
+footer div div p{
+  font-size: 25px;
+}
+
+
+#contac{
+  color: white;
+  font-size: 36px;
+}
+
+h2{
+  font-size: 45px;
+}
+
+#qwe{
+  position: relative;
+  overflow-y: scroll;
+  height: 200px;
+}

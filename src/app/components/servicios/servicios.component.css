@@ -1,0 +1,32 @@
+#img-serv{
+  width: 160px;
+  height: 150px;
+  border-radius: 50%;
+  padding-top: 25px;
+  background: #00BCD4;
+  margin-top: 20px;
+}
+p{
+  color: black;
+  margin-left: 2%;
+  font-size: 18px;
+}
+
+#infoservi{
+  margin-left: 5%;
+}
+
+#ico{
+font-size: 100px;
+color: white;
+}
+
+#cardserv{
+  margin-bottom: 85px;
+  margin-left: 25px;
+
+}
+
+#cardserv:hover{
+  box-shadow: 4px 4px 6px #999;
+}
